@@ -1,0 +1,7 @@
+@inproceedings{REPO-328,
+    author = "Chen, Zhuang and Qian, Tieyun",
+    booktitle = "Proceedings of the 58th annual meeting of the association for computational linguistics",
+    pages = "3685--3694",
+    title = "{Relation-Aware Collaborative Learning for Unified Aspect-based Sentiment Analysis}",
+    year = "2020"
+}
